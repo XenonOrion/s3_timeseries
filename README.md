@@ -1,3 +1,7 @@
+## S3 Timeseries
+Demonstation of N-D timeseries with the use of `zarr` file format, usage directly from S3.
+
+
 ## Before running this Notebook
 Make sure the dependencies are installed in their own venv:
 ```
