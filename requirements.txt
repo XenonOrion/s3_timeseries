@@ -2,3 +2,4 @@ jupyter
 netcdf4
 xarray
 hvplot
+pandas
